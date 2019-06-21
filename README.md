@@ -1,1 +1,7 @@
-Test Readme
+100 Days of Learning
+
+Python
+Java
+Spring
+Algorithms
+Data Structures
