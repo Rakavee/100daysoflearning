@@ -29,3 +29,6 @@ def longest_substring_without_repetition(input_string):
 if __name__ == "__main__":
     input_string = "geeksforgeeks"
     longest_substring_without_repetition(input_string)
+
+
+#Reference: https://www.geeksforgeeks.org/length-of-the-longest-substring-without-repeating-characters/
